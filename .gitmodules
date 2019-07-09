@@ -1,0 +1,3 @@
+[submodule "math-leisure"]
+	path = math-leisure
+	url = ./math-leisure
